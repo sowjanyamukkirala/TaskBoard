@@ -1,16 +1,3 @@
- @font-face {
-	font-family: WorkSans;
-	src: url("https://content.codecademy.com/courses/learn-css-grid/project-ii/Resources/Work_Sans/WorkSans-Regular.ttf");
-}
-@font-face {
-	font-family: Poppins;
-	src: url("https://content.codecademy.com/courses/learn-css-grid/project-ii/Resources/Poppins/Poppins-Regular.ttf");
-}
-
-html {
-  height: 100%;
-}
-
 body {
   height: 100%;
   margin: 0;
